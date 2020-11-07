@@ -1,0 +1,17 @@
+.product-list{
+    background-color: beige;
+    margin: auto;
+    height: 100vh;
+}
+
+.product-list table thead{
+    background-color: #ddd;
+}
+
+.product-list table tr{
+    border: 1px solid black;
+}
+
+.product-list table td{
+    border: 1px solid black;
+}

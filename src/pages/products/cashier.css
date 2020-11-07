@@ -1,0 +1,37 @@
+.cashier{
+    background-color: beige;
+    margin: auto;
+    height: 100vh;
+}
+
+.cashier-tabela thead{
+    background-color: #ddd;
+}
+
+.cashier-tabela tbody{
+    background-color: white;
+}
+
+.cashier-tabela tr{
+    border: 1px solid black;
+}
+
+.cashier-tabela td{
+    border: 1px solid black;
+}
+
+.valor-total tr{
+    border: 1px solid black;
+}
+
+.valor-total td{
+    border: 1px solid black;
+}
+
+.valor-total .titulo{
+    background-color: #ddd;
+}
+
+.valor-total .total{
+    background-color: white;
+}
